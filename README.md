@@ -34,7 +34,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Mock Up
 
-![Screenshot of routes](./)
+Routes:
+![Screenshot of routes](./Assets/routessocial.png)
+
+MongoDB:
+![Screenshot of routes](./Assets/mongodbsocial.png)
 
 ## Motivation
 
